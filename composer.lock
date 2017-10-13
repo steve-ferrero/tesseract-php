@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7a69a6ea0b23301982b5dc8a221b3631",
+    "packages": [
+        {
+            "name": "web-atrio/php-pdf-to-image",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/steve-ferrero/php-pdf-to-image.git",
+                "reference": "d37abea6045d12709f8b7d574dcd6d285f7586d6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/steve-ferrero/php-pdf-to-image/zipball/d37abea6045d12709f8b7d574dcd6d285f7586d6",
+                "reference": "d37abea6045d12709f8b7d574dcd6d285f7586d6",
+                "shasum": ""
+            },
+            "type": "php",
+            "autoload": {
+                "psr-4": {
+                    "WebAtrio\\PDFToImage\\": ""
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Steve Ferrero",
+                    "email": "steve.ferrero@web-atrio.com"
+                }
+            ],
+            "description": "PHP pdf to image converter",
+            "time": "2017-10-13T12:28:38+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
