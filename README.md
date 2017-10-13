@@ -1,4 +1,5 @@
 # tesseract-php
+PHP class for Tesseract command line
 
 ## Requirements
 You should have [Tesseract](https://github.com/tesseract-ocr/tesseract/wiki) installed.
